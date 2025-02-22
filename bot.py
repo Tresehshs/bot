@@ -15,7 +15,7 @@ from buttons import b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11,b12,b13,b14,b15,b16,b1
 from buttons import userpanel,menu,empty,cancel,bal
 from answers import a0,a1,a11,a19,skolkochasov
 
-bot=telebot.TeleBot(token)
+bot=telebot.TeleBot(7816372001:AAHbv48gTnLRwMmQ3hFSTsnNEGqA8AKthw0)
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
